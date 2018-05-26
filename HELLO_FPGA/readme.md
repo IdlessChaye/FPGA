@@ -1,3 +1,6 @@
 # HELLO_FPGA
+- FPGA板子：XILINX ARTIX-7 XC7A35TCSG324 EGO1
 - 需要一块OLED板子，我的是：SSD1306 0.96寸128x64 蓝光OLED显示屏 4SPI
+- 采用SPI协议
 - 代码参考EGO1官网的OLED项目
+- 代码均已注释
