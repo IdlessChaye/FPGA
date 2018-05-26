@@ -2,7 +2,7 @@
 
 ![HELLO_FPGA](HELLO_FPGA.jpg)
 
-## Information
+## 信息
 
 - EDA：Vivado 2017.1
 - language: Verilog
