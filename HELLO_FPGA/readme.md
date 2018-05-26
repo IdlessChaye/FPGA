@@ -1,0 +1,3 @@
+# HELLO_FPGA
+- 需要一块OLED板子，我的是：SSD1306 0.96寸128x64 蓝光OLED显示屏 4SPI
+- 代码参考EGO1官网的OLED项目
