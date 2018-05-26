@@ -4,7 +4,7 @@
 
 ## 信息
 
-- EDA：Vivado 2017.1
+- EDA：Vivado 2017.4
 - language: Verilog
 - FPGA板子：XILINX ARTIX-7 XC7A35TCSG324 EGO1
 - 需要一块OLED板子，我的是：SSD1306 0.96寸128x64 蓝光OLED显示屏 4SPI
@@ -18,5 +18,5 @@
 
 ## 如何观察
 
-- 按照EGO1用户手册，将板子和OLED屏连接好
-- 成功烧录程序后会在OLED屏上看到
+- 参照EGO1用户手册，将板子和OLED屏连接好
+- 成功烧录程序后，会在OLED屏上看到
