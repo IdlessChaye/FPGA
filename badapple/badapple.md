@@ -20,9 +20,9 @@ OLED屏幕上播放视频
 - MATLAB
 - Vivado
 
-##　代码文件
+## 代码文件
 
-*具体代码详见Github*
+*具体代码详见[GitHub](https://github.com/IdlessChaye/FPGA/blob/master/badapple)*
 
 ### 图像处理
 
